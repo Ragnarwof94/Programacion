@@ -1,4 +1,4 @@
-from random import *
+from random import randint
 numero = int(randint(0, 100))
 numeroMio = -1
 
