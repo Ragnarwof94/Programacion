@@ -3,6 +3,9 @@ Las listas en Python son estructuras de datos que permiten almacenar múltiples 
 """
 
 # Ejemplos de listas
+#➡️ Lista de frutas
 frutas = ["manzana", "banana", "cereza"]
+#➡️ Lista de números enteros
 numeros = [10, 20, 30, 40, 50]
+#➡️ Lista
 mixta = ["texto", 100, 3.14, True, 1.2, 3]

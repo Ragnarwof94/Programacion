@@ -1,6 +1,6 @@
 # 📚 Carpeta de Programación — Fundamentos
 
-Este repositorio contiene ejercicios y ejemplos básicos de programación, organizados por temas.  
+Este repositorio contiene ejercicios y ejemplos básicos de programación, organizados por temas.
 Cada carpeta representa un concepto fundamental y está pensada para estudiantes que están empezando desde cero.
 
 ---
