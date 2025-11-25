@@ -7,19 +7,16 @@ Cada carpeta representa un concepto fundamental y está pensada para estudiantes
 
 ## 📁 Estructura del proyecto
 
-Programacion/
-├── 1_Comentrarios
-├── 2_Impresiones
-├── 3_Entradas
-├── 4_Variables
-├── 5_Estructuras
-├── 6_Casting
-├── 7_Deciciones
-├── 8_Bucles
+Programacion
+    1_Comentrarios
+    2_Impresiones
+    3_Entradas
+    4_Variables
+    5_Estructuras
+    6_Casting
+    7_Deciciones
+    8_Bucles
 
-
-yaml
-Copiar código
 
 ### 📂 1_Comentrarios
 Contiene ejemplos que enseñan la **sintaxis de comentarios** en el lenguaje utilizado.  
