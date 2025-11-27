@@ -3,6 +3,9 @@ Tuplas en Python son estructuras de datos que permiten almacenar múltiples valo
 """
 
 # Ejemplos de tuplas
+#➡️ Tupla de coordenadas
 coordenadas = (10.0, 20.0)
+#➡️ Tupla de punto en 3D
 punto_3D = (5, 10, 15)
+#➡️ Tupla de colores
 colores = ("rojo", "verde", "azul", "amarillo")
